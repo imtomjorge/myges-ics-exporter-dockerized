@@ -26,7 +26,8 @@ NICKNAME=JohnDoe
 Simply run the following command: 
 ```
 docker run --env-file myges.env -d -p 8282:80
-myges-ics-exporter-exp:latest``` 
+myges-ics-exporter-exp:latest
+``` 
 
 Feel free to chose your port, and choose any other port than 8282. 
 
