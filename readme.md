@@ -1,6 +1,5 @@
-[200~# MyGES ICS Exporter - Dockerized 🐳 ]
-MyGES ICS Exporter is a dockerized
-[version of this software](https://github.com/kidelag/agenda-ges). It will allow you
+# MyGES ICS Exporter - Dockerized 🐳
+MyGES ICS Exporter is a dockerized [version of this software](https://github.com/kidelag/agenda-ges). It will allow you
 to generate and serve an updated .ics file of your MyGES agenda, using your associated
 credentials. Created by kidelag, the whole installation process, has been simplified,
 and converted on a complete dockerized version.
