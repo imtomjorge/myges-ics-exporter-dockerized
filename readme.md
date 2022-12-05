@@ -17,9 +17,9 @@ By default, all credentials are stored on myges.env file, located at root.
 Please edit this file, and add your credentials and any nickname.  It will be used to get your .ics file. 
 
 ```bash
-docker MYGES_USERNAME=jdoe 
-MYGES_PASSWORD=MyStrongPassword 
-NICKNAME=JohnDoe 
+docker NICKNAME=JohnDoe
+MYGES_USERNAME=jdoe
+MYGES_PASSWORD=MyStrongPassword
 ```
 
 ## 🚀 Launch our container
